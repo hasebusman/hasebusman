@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>x
   
   # Haseeb Usman
   
   ### Full Stack Web & Mobile Application Developer | DevOps Engineer
 </div>
 
-- 🔭 I'm currently working at [Forged Script](https://github.com/forgedscript/)
-- 🌱 I'm currently exploring **DevOps, AWS Services, Kubernetes, CI/CD Pipelines**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/haseeb-usman)
 - 💬 Ask me about **Next.js, React Native, MERN, TypeScript, DevOps**
 - 📫 How to reach me: **[haseebusman.dev@gmail.com](mailto:haseebusman.dev@gmail.com)**
