@@ -72,17 +72,6 @@
     <a href="https://coffeescript.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/></a>
   </p>
 
-<div align="center">
-  <h3>GitHub Stats</h3>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haseeb-usman&show_icons=true&locale=en&layout=compact" alt="haseeb-usman" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseeb-usman&show_icons=true&locale=en" alt="haseeb-usman" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseeb-usman" alt="haseeb-usman" />
