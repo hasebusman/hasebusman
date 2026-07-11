@@ -1,73 +1,123 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>x
-  
-  # Haseeb Usman
-  
-  ### Full Stack Web & Mobile Application Developer | DevOps Engineer
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer animation" />
+
+# Hi, I'm Haseeb Usman 👋
+
+### Software Engineer | Full-Stack Developer | DevOps & Cloud Engineer
+
+I build scalable web applications, mobile apps, backend systems, developer tools, and cloud infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haseeb%20Usman-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/haseeb-usman)
+[![GitHub](https://img.shields.io/badge/GitHub-hasebusman-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hasebusman)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:haseebusman.dev@gmail.com)
+
 </div>
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/haseeb-usman)
-- 💬 Ask me about **Next.js, React Native, MERN, TypeScript, DevOps**
-- 📫 How to reach me: **[haseebusman.dev@gmail.com](mailto:haseebusman.dev@gmail.com)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/haseeb_usman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haseeb_usman_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/haseeb-usman-654136286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeb-usman-654136286" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+* 💻 Software engineer focused on **full-stack development, backend systems, DevOps, and cloud infrastructure**
+* 🚀 Experienced in building and deploying **web, mobile, SaaS, e-commerce, and automation solutions**
+* ☁️ Working with **Docker, CI/CD, AWS, Azure, Terraform, Jenkins, Linux, and cloud deployments**
+* 📱 Building cross-platform mobile applications using **React Native, Expo, and Capacitor**
+* 🧠 Interested in **Go, distributed systems, cybersecurity, AI integrations, and scalable backend architecture**
+* 🤝 Available for **software engineering, DevOps, cloud, and freelance opportunities**
+* 💬 Ask me about **React, Next.js, Node.js, TypeScript, React Native, Docker, CI/CD, and cloud infrastructure**
+* 📫 Reach me at **[haseebusman.dev@gmail.com](mailto:haseebusman.dev@gmail.com)**
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,bash" alt="Programming languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Frontend
 
-  <summary><b>Frontend Development</b></summary>
-  <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://nextjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
 
+### Backend
 
-  <summary><b>Backend Development</b></summary>
-  <p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-    <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer"><img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/></a>
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql" alt="Backend technologies" />
+</p>
 
-  <summary><b>Mobile App Development</b></summary>
-  <p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  </p>
+### Mobile Development
 
-  <summary><b>Database</b></summary>
-  <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</p>
 
-  <summary><b>DevOps & Cloud</b></summary>
-  <p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/></a>
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
-  </p>
-</details>
+* React Native
+* Expo
+* Progressive Web Apps
+* Capacitor
 
-  <summary><b>Other</b></summary>
-  <p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://coffeescript.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/></a>
-  </p>
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases" />
+</p>
+
+### DevOps and Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,nginx,linux" alt="DevOps and cloud technologies" />
+</p>
+
+### Monitoring and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,figma,postman" alt="Development tools" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasebusman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Haseeb's GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasebusman&layout=compact&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasebusman&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/haseeb-usman">
+    <img src="https://img.shields.io/badge/LinkedIn-Haseeb%20Usman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:haseebusman.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-haseebusman.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/hasebusman">
+    <img src="https://img.shields.io/badge/GitHub-hasebusman-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Building reliable software, scalable systems, and practical products.
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasebusman\&style=flat-square)
+
+</div>
